@@ -1,5 +1,5 @@
 # hola-mundo
-mi primer repositorio de prueba
+mi primer repositorio en una nueva rama
 
 autor juan antonio floriano
 fecha 05-02-22
